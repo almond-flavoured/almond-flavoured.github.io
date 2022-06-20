@@ -1,10 +1,10 @@
 ---
 title: 기술면접준비
 date: 2022-06-20 23:44:00 +/- TTTT
-categories: []
-tags: [] # TAG는 반드시 소문자로 이루어져야함!
+categories: [javascript]
+tags: [javascript] # TAG는 반드시 소문자로 이루어져야함!
 ---
 
-h1 클로저
+<h1>클로저<h1>
 
 내부 함수의 변수가 외부 함수의 변수에 접근할 수 있는 메커니즘
