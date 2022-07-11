@@ -5,10 +5,10 @@ categories: [npm]
 tags: [npm] # TAG는 반드시 소문자로 이루어져야함!
 ---
 
-```bash
+```zsh
 npm install -g npm@{원하는버전}
 ```
 
-```bash
+```zsh
 npm install npm@{원하는버전} -g
 ```
